@@ -1,0 +1,7 @@
+pyttsx3
+speech_recognition
+wikipedia
+webbrowser
+google.generativeai
+requests
+json
