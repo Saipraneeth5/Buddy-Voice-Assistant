@@ -7,9 +7,9 @@ import psutil  # NEW: to check if Buddy is running
 import time
 
 # Constants
-BUDDY_SCRIPT_PATH = "D:\\SAI\\AI_VOICE\\Buddy.py"
-PYTHON_PATH = "C:\\Users\\baira\\AppData\\Local\\Programs\\Python\\Python312\\python.exe"
-MODEL_PATH = "D:/SAI/AI_VOICE/vosk-model-small-en-us-0.15"
+BUDDY_SCRIPT_PATH = "YOUR_BUDDY.py PATH"
+PYTHON_PATH = "YOUR_PYTHON_PATH"
+MODEL_PATH = "YOUR vosk-model-small-en-us-0.15 PATH"
 HOTWORD = "hey buddy"
 
 # Load Vosk model

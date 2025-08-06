@@ -19,7 +19,7 @@ except Exception as e:
     use_vosk = False
 
 # Configure Gemini
-genai.configure(api_key="AIzaSyA9gVZ1uGRzceZPaRnpyl_0x5tLfg7tl8w")
+genai.configure(api_key="YOUR_GEMINI_API_KEY")  # Replace with your Gemini API key
 
 # Check if connected to internet
 def is_online():
